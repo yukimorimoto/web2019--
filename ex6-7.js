@@ -10,3 +10,7 @@ function sayhello67(){
 //function someone(x){
 //    who = x;
 //}
+
+function someone(x){
+    who67 = x;
+}

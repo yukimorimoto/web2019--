@@ -1,11 +1,11 @@
-function sayhello(){
-    alert('Hello,' + document.getElementByld('who').innerHTML + '!');
+function sayhello68(){
+    alert('Hello,' + document.getElementByld('who68').innerHTML + '!');
 }
 
-function taro(){
-    document.getElementByld('who').innerHTML = '太郎';
+function taro68(){
+    document.getElementByld('who68').innerHTML = '太郎';
 }
 
-function hanako(){
-    document.getElemntByld('who').innerHTML = '花子';
+function hanako68(){
+    document.getElementByld('who68').innerHTML = '花子';
 }
